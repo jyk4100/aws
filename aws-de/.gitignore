@@ -1,0 +1,12 @@
+## https://prudential.udemy.com/course/data-engineering-serverless-elt-bi-on-amazon-cloud/learn/lecture/19761558#reviews
+## hope this time I don't have to spend so much time with set ups for labs :<
+
+## file extension
+/resources
+*.csv
+*.json
+*.docx
+*.pdf
+
+## files
+lecture_notes.txt

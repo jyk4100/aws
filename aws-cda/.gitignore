@@ -1,0 +1,12 @@
+## https://prudential.udemy.com/course/aws-data-analytics/learn/
+## "here is aws products. use these products" haha
+
+## file extension
+/AWSCertBigData-Materials
+*.csv
+*.json
+*.docx
+*.pdf
+
+## files
+lecture_notes.txt

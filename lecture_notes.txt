@@ -1,0 +1,15 @@
+lecture part 1 
+
++ collection introduction
+- real-time applications/immediate actions
+- near-real time
+- batch
+
+- managed alternative of Apache Kafka
+- AWS Kinesis Streams -> Analytics -> Firehose
+- producers -> shards/partitions -> consumers
+- ability to reprocess/replay data available for multiple applications
+- immutable append only, real-time processing
+
+- Kinesis Streams Records
+"blob" of data upto 1MB (serialized) + record ky (same key = same shard)
